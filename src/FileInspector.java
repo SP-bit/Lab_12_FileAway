@@ -11,7 +11,7 @@ import static java.nio.file.StandardOpenOption.CREATE;
  *
  * Use the thread safe NIO IO library to read a file
  */
-public class Main
+public class FileInspector
 {
 
     /**
